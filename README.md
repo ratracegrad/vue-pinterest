@@ -4,7 +4,7 @@ This code is for an article I wrote on medium.com on how to create a Pinterest s
 grid for images. In that article I walk you through step-by-step on how to create this layout.
 The end result is that you create a layout that will look like this:
 
-![Pinterest style grid layout](https://res.cloudinary.com/ratracegrad/image/upload/v1572615385/Screen_Shot_2019-10-31_at_5.13.27_PM_zwiy0p.png)
+![Pinterest style grid layout](/screenshots/GridLayout.png?raw=true)
 
 ## Read the article
 
